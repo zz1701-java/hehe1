@@ -7,6 +7,7 @@ public class Ta {
 		System.out.println("ÖÇÕÏ");
 		System.out.println("c");
 		System.out.print("heheda");
+		System.out.println("王文煜");
 	}
 	
 }
