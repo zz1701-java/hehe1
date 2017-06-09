@@ -6,7 +6,11 @@ public class Ta {
 		Ta ta=new Ta();
 		System.out.println("c");
 		System.out.print("heheda");
-		System.out.println("张三");
+		System.out.println("张海航");
+		System.out.println("张海航");
+		System.out.println("张海航");
+		System.out.println("张海航");
+		
 	}
 	
 }
