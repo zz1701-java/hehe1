@@ -6,10 +6,8 @@ public class Ta {
 		Ta ta=new Ta();
 		System.out.println("c");
 		System.out.print("heheda");
-		System.out.println("ÕÅº£º½");
-		System.out.println("ÕÅº£º½");
-		System.out.println("ÕÅº£º½");
-		System.out.println("ÕÅº£º½");
+		System.out.println("é™ˆå»ºå‹‹");
+		System.out.println("é™ˆå»ºå‹‹");
 		
 	}
 	
