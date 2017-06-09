@@ -7,8 +7,8 @@ public class Ta {
 		System.out.println("c");
 		System.out.print("heheda");
 		System.out.println("陈建勋");
-		System.out.println("陈建勋");
-		
+		System.out.println("张海航");
+		System.out.println("韩正宇");
 	}
 	
 }
