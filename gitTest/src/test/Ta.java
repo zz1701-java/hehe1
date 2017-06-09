@@ -4,8 +4,9 @@ public class Ta {
 	public int sum(int x,int y){return x+y;};
 	public static void main(String[] args) {
 		Ta ta=new Ta();
-		System.out.println("÷«’œ");
+		System.out.println("√ñ√á√ï√è");
 		System.out.println("c");
+		System.out.print("heheda");
 	}
 	
 }
