@@ -6,6 +6,7 @@ public class Ta {
 		Ta ta=new Ta();
 		System.out.println("c");
 		System.out.print("heheda");
+		System.out.println("ÕÅÈı");
 	}
 	
 }
