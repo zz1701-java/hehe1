@@ -7,6 +7,7 @@ public class Ta {
 		System.out.println("c");
 		System.out.print("heheda");
 		System.out.println("张三");
+		System.out.println("刚翻过了几座山，嘿嘿");
 	}
 	
 }
